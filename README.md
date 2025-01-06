@@ -1,3 +1,4 @@
+Esports Gaming League Script is based around a ladder system from an old gaming league/ladder called 'Enemy Down'.<br><br>
 Script Features:<br><br>
 Home Page: The Home pages shows recent results and fixtures, aswell as recently posted news.<br>
 News Posts: Post news or daily topics with an added comment system.<br>
