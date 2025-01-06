@@ -9,7 +9,7 @@ Teams: Shows the team(s) members, results,fixtures and challenges.<br>
 Profile: The profie page shows the user comments, queries and user details.<br>
 Results: View results across all leagues/ladders.<br>
 Fixtures: View fixtures across all leagues/ladders.<br>
-Tabs: Customise each page to display; Results,fixtures,news,top ranked clans or sponsors.
+Tabs: Customise each page to display; Results,fixtures,news,top ranked clans or sponsors.<br>
 Private Messages: Website Members can send messages to eachother via their profile.<br>
 Friends List: Chat/Add/Block/Delete other users from your friends list.<br>
 Forum Board: A community forum board.<br>
