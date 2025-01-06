@@ -17,5 +17,6 @@ Profile: The profie page shows the user comments, queries and user details.<br>
 Match Challenges: Accept or pout out open match challenges to other clans.<br>
 Admin Panel: An admin panel to control the script/website.<br><br>
 
-https://www.desktopcode.com<br>
-https://www.desktopcode.com/esportsgl.html
+Website:https://www.desktopcode.com<br>
+Info Page:https://www.desktopcode.com/esportsgl.html<br>
+<a href="https://desktopcode.com/download/do.php?idcore-id=265">Download HERE</a>
