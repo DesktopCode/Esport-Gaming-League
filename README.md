@@ -14,7 +14,7 @@ Private Messages: Website Members can send messages to eachother via their profi
 Friends List: Chat/Add/Block/Delete other users from your friends list.<br>
 Forum Board: A community forum board.<br>
 Social Media: Display links to your Social Media accounts.<br>
-Match Challenges: Accept or pout out open match challenges to other clans.<br>
+Match Challenges: Accept and challenge matches, or create an open match challenge.<br>
 Admin Panel: An admin panel to control the script/website.<br><br>
 
 Website: https://www.desktopcode.com<br>
