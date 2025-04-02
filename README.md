@@ -18,5 +18,3 @@ Match Challenges: Accept and challenge matches, or create an open match challeng
 Admin Panel: An admin panel to control the script/website.<br><br>
 
 Website: https://www.desktopcode.com<br>
-Info Page: https://www.desktopcode.com/esportsgl.html<br><br>
-<a href="https://desktopcode.com/download/do.php?idcore-id=265">Download HERE</a>
